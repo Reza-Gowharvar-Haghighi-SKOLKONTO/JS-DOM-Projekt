@@ -1,0 +1,43 @@
+h1{
+
+    font-size: 3vw;
+
+}
+
+p{
+
+    font-size: 1vw;
+
+}
+
+img{
+
+    width: 10%;
+
+}
+
+.options{
+
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+    height: 65px;
+    width: 65px;
+
+}
+
+#optHead{
+
+    display: inline-block;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin: -127.5px;
+    
+}
+
+body{
+
+    background-color: aqua;
+
+}
